@@ -8,5 +8,7 @@ The pandemic's effects on the economy were profound, with many countries experie
 
 # 🔑 Dashboard
 
+
+
 ![covid video](https://github.com/Sumit-Baviskar/SQl-Amazon-sales/assets/153518735/96177f79-1e01-4911-bb8e-5da90a5cc1b6)
 
