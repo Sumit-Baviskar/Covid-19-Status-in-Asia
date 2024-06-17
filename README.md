@@ -8,5 +8,5 @@ The pandemic's effects on the economy were profound, with many countries experie
 
 # 🔑 Dashboard
 
-![covid-19](https://github.com/Sumit-Baviskar/Covid-19-Status-in-Asia/assets/153518735/0ed829b6-a774-4a2e-b606-3f6bd9702570)
+![covid video](https://github.com/Sumit-Baviskar/SQl-Amazon-sales/assets/153518735/96177f79-1e01-4911-bb8e-5da90a5cc1b6)
 
