@@ -6,6 +6,26 @@ The COVID-19 pandemic significantly impacted Asia, causing widespread health cri
 
 The pandemic's effects on the economy were profound, with many countries experiencing recessions, disrupted supply chains, and increased unemployment. Vaccination campaigns began in earnest in 2021, with nations like Israel and the UAE achieving high vaccination rates quickly, while others faced logistical hurdles and vaccine shortages. Despite these challenges, Asia demonstrated resilience, with many countries adapting to new norms and gradually recovering from the pandemic's peak impact. The crisis underscored the importance of healthcare infrastructure, international cooperation, and preparedness for future pandemics.
 
+# 📗 Question 📗
+Jupyter Notebook (Pandas, Matplotlib,Seaborn, Hvplot)
+
+# 📗 Question 📗
+
+
+1) Total Deaths by countries ?
+
+
+2) Table realted to specific date,location,death and other calcualted fields ?
+
+
+3) Total successful vaccination for covid-19 by each countries as well as year ?
+
+
+4) Death rate for each counties
+
+
+
+
 # 🔑 Dashboard
 
 
