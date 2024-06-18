@@ -21,7 +21,7 @@ Jupyter Notebook (Pandas, Matplotlib,Seaborn, Hvplot)
 3) Total successful vaccination for covid-19 by each countries as well as year ?
 
 
-4) Death rate for each counties
+4) Death rate for each counties ?
 
 
 
