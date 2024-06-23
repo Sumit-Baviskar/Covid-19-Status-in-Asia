@@ -30,5 +30,5 @@ Jupyter Notebook (Pandas, Matplotlib,Seaborn, Hvplot)
 
 
 
-![covid video](https://github.com/Sumit-Baviskar/SQl-Amazon-sales/assets/153518735/96177f79-1e01-4911-bb8e-5da90a5cc1b6)
+![covid_now](https://github.com/Sumit-Baviskar/Covid-19-Status-in-Asia/assets/153518735/7acdf995-b391-4ad8-ad5d-e79016ca1aa2)
 
