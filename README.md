@@ -29,13 +29,13 @@ The pandemic's effects on the economy were profound, with many countries experie
 The **purpose of this analysis** is to provide insights into how various Asian countries have been affected by the Covid-19 pandemic. Specifically, the analysis examines:
 
 
-- Total deaths due to Covid-19 by country, allowing us to understand the impact of the virus on different populations.
+- **Total deaths due to Covid-19 by country**, allowing us to understand the impact of the virus on different populations.
 
   
-- Total successful vaccinations by country and year, highlighting the efforts of each country in controlling the spread of the virus.
+- **Total successful vaccinations by country and year**, highlighting the efforts of each country in controlling the spread of the virus.
 
 
-- Death rate by country, which is a critical metric in understanding how effective healthcare systems have been in preventing fatalities.
+- **Death rate by country**, which is a critical metric in understanding how effective healthcare systems have been in preventing fatalities.
 
 
 By examining these aspects, we aim to uncover patterns and correlations between country-specific factors such as population size, GDP, and healthcare infrastructure, and their pandemic outcomes. Ultimately, this analysis provides valuable recommendations on improving preparedness and response mechanisms for future pandemics.
