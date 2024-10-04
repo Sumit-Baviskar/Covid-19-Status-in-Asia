@@ -124,6 +124,7 @@ The dataset contains the following key columns:
   - Governments should prioritize high-density population areas for vaccine rollouts and interventions like lockdowns.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### :paperclip:  **2 ) Table realted to specific date,location,death and other calcualted fields ?**
@@ -171,6 +172,7 @@ The dataset contains the following key columns:
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### :paperclip:  **3 ) Total successful vaccination for covid-19 by each countries as well as year ?**
@@ -194,6 +196,8 @@ The dataset contains the following key columns:
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### :paperclip:  **4 ) Death rate for each counties ?**
 
@@ -216,9 +220,10 @@ The dataset contains the following key columns:
   - Long-term investments in healthcare infrastructure are essential to mitigate the effects of future pandemics, especially in developing countries.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# 🔑 Dashboard
+# 🔑 Dashboard 🔑
 
 
 
