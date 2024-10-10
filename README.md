@@ -67,37 +67,37 @@ By examining these aspects, we aim to uncover patterns and correlations between 
 
 The dataset contains the following key columns:
 
-**Date :** Represents the specific day when data was recorded.
+- **Date :** Represents the specific day when data was recorded.
 
 
-**Location :** Refers to the country or region.
+- **Location :** Refers to the country or region.
 
 
-**New Cases :** Number of new Covid-19 cases reported.
+- **New Cases :** Number of new Covid-19 cases reported.
 
 
-**New Deaths :** Number of new deaths reported due to Covid-19.
+- **New Deaths :** Number of new deaths reported due to Covid-19.
 
 
-**Total Cases :** Cumulative Covid-19 cases.
+- **Total Cases :** Cumulative Covid-19 cases.
 
 
-**Total Deaths :** Cumulative deaths due to Covid-19.
+- **Total Deaths :** Cumulative deaths due to Covid-19.
 
 
-**New Vaccinations :** Number of new vaccinations administered.
+- **New Vaccinations :** Number of new vaccinations administered.
 
 
-**Total Vaccinations :** Cumulative vaccinations administered.
+- **Total Vaccinations :** Cumulative vaccinations administered.
 
 
-**Population :** Total population of the country/region.
+- **Population :** Total population of the country/region.
 
 
-**GDP per capita :** GDP per person of each country, which can help understand the country's resources for tackling the pandemic.
+- **GDP per capita :** GDP per person of each country, which can help understand the country's resources for tackling the pandemic.
 
 
-**Life Expectancy :** The average number of years a person is expected to live, which can correlate with healthcare quality.
+- **Life Expectancy :** The average number of years a person is expected to live, which can correlate with healthcare quality.
 
 
 # 📗  Data Analysis ( Solution to Question )  📗 
